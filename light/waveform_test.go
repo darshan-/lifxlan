@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"go.yhsif.com/lifxlan/light"
+	"github.com/darshan-/lifxlan/light"
 )
 
 func TestBool2Uint8(t *testing.T) {

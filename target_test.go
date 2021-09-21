@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 func TestTargetString(t *testing.T) {

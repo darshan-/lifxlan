@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // This example demonstrates how to do device discovery.

@@ -1,7 +1,7 @@
 package light
 
 import (
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // Light related MessageType values.

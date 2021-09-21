@@ -7,7 +7,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 func TestParseResponseError(t *testing.T) {

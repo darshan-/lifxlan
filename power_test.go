@@ -11,8 +11,8 @@ import (
 	"testing/quick"
 	"time"
 
-	"go.yhsif.com/lifxlan"
-	"go.yhsif.com/lifxlan/mock"
+	"github.com/darshan-/lifxlan"
+	"github.com/darshan-/lifxlan/mock"
 )
 
 func TestPower(t *testing.T) {

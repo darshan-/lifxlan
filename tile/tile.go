@@ -3,7 +3,7 @@ package tile
 import (
 	"math"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // Coordinate defines a simple 2D coordinate.

@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 const kelvin = lifxlan.KelvinCool

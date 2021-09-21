@@ -2,7 +2,7 @@
 //
 // To install it:
 //
-//     go get -u go.yhsif.com/lifxlan/cmd/gen-product-map
+//     go get -u github.com/darshan-/lifxlan/cmd/gen-product-map
 //
 // To run it:
 //
@@ -19,7 +19,7 @@ import (
 	"os"
 	"sort"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 var vendors []struct {

@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // Device is a wrapped lifxlan.Device that provides light related APIs.

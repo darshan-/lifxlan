@@ -6,8 +6,8 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"go.yhsif.com/lifxlan"
-	"go.yhsif.com/lifxlan/light"
+	"github.com/darshan-/lifxlan"
+	"github.com/darshan-/lifxlan/light"
 )
 
 // Wrap tries to wrap a lifxlan.Device into a tile device.

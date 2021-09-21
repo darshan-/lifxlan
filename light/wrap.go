@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/binary"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // Wrap tries to wrap a lifxlan.Device into a light device.

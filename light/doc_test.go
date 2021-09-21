@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
-	"go.yhsif.com/lifxlan"
-	"go.yhsif.com/lifxlan/light"
+	"github.com/darshan-/lifxlan"
+	"github.com/darshan-/lifxlan/light"
 )
 
 // This example demonstrates how to set color on a light device.

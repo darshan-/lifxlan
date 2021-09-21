@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"go.yhsif.com/lifxlan"
+	"github.com/darshan-/lifxlan"
 )
 
 // ColorBoard represents a board of colors.

@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"go.yhsif.com/lifxlan"
-	"go.yhsif.com/lifxlan/mock"
-	"go.yhsif.com/lifxlan/tile"
+	"github.com/darshan-/lifxlan"
+	"github.com/darshan-/lifxlan/mock"
+	"github.com/darshan-/lifxlan/tile"
 )
 
 // This example demonstrates how to mock a response in test code.

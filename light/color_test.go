@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"go.yhsif.com/lifxlan"
-	"go.yhsif.com/lifxlan/light"
-	"go.yhsif.com/lifxlan/mock"
+	"github.com/darshan-/lifxlan"
+	"github.com/darshan-/lifxlan/light"
+	"github.com/darshan-/lifxlan/mock"
 )
 
 func mockProductMap(t *testing.T) {

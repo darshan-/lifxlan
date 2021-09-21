@@ -1,8 +1,8 @@
-[![PkgGoDev](https://pkg.go.dev/badge/go.yhsif.com/lifxlan/tile)](https://pkg.go.dev/go.yhsif.com/lifxlan/tile)
-[![Go Report Card](https://goreportcard.com/badge/go.yhsif.com/lifxlan)](https://goreportcard.com/report/go.yhsif.com/lifxlan)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/darshan-/lifxlan/tile)](https://pkg.go.dev/github.com/darshan-/lifxlan/tile)
+[![Go Report Card](https://goreportcard.com/badge/github.com/darshan-/lifxlan)](https://goreportcard.com/report/github.com/darshan-/lifxlan)
 
 # LIFX LAN Tile API
 
 Please refer to [project README](../README.md) or
-[GoDoc page](https://pkg.go.dev/go.yhsif.com/lifxlan/tile)
+[GoDoc page](https://pkg.go.dev/github.com/darshan-/lifxlan/tile)
 for more informations.
