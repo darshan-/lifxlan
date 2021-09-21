@@ -20,7 +20,7 @@ var ColorBlack = *FromColor(color.Black, 0)
 
 // Color value boundaries and constants.
 const (
-	KelvinWarm uint16 = 2500
+	KelvinWarm uint16 = 1500
 	KelvinCool uint16 = 9000
 
 	KelvinMin uint16 = KelvinWarm
